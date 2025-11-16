@@ -78,6 +78,23 @@ node agent-v4.js
 
 **Conceitos:** Multi-tool orchestration, API integration, decision making
 
+### v5 - Multi-Ferramentas COMPLETO ⭐
+**Arquivo:** `agent-v5.js`
+
+Agente final com 5 ferramentas integradas: bash, clima, busca web, conversão de moedas e conversa.
+```bash
+node agent-v5.js
+# "liste arquivos" → bash
+# "clima em Paris" → OpenWeather API
+# "notícias sobre IA" → Google Custom Search
+# "100 dólares em reais" → Exchange Rate API
+# "olá" → conversa normal
+```
+
+**Conceitos:** Multi-API orchestration, decision making, complete tool ecosystem
+
+---
+
 ## 🚀 Começando
 
 ### Pré-requisitos
